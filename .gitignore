@@ -1,2 +1,7 @@
 dist
 node_modules
+/WebApplication1.sln
+/WebApplication1.csproj.user
+/WebApplication1.csproj
+/.vs
+/bower_components/jquery
